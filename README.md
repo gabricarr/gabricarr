@@ -9,7 +9,7 @@
   | **URL**             | [link](https://github.com/gabricarm/IS23-AM08)     |
 
 
-- ### Music Genre Classification A Comparative Study
+- ### Music Genre Classification a Comparative Study
     | **Related Course**  | Numerical Analysis for Machine Learning                         |
   | ------------------- | -------------------------------------------------------- |
   | **Description**     | Project |
