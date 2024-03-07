@@ -12,7 +12,7 @@
 - ### Music Genre Classification: a Comparative Study
     | **Related Course**  | Numerical Analysis for Machine Learning                         |
   | ------------------- | -------------------------------------------------------- |
-  | **Description**     | Project |
+  | **Description**     | Comparison of ML and DL tecniques |
   | **Project Type**    | Group project                            |
-  | **Language**        | Python                                               |
+  | **Language**        | Python (numpy, sklearn, pythorch)                                           |
   | **URL**             | [link](https://github.com/gabricarr/Naml-project)     |
