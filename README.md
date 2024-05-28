@@ -30,13 +30,13 @@
 
 
 
-- ### Blind source separation with Independent Component Analysis 
+- ### Blind Source Separation with Negentropy-based Independent Component Analysis 
     | **Related Course**  | Information Theory                        |
   | ------------------- | -------------------------------------------------------- |
-  | **Description**     | Implementation of the ICA algorithm to perform blind source separation |
+  | **Description**     | Implementation and validation of the FastICA algorithm |
   | **Project Type**    | Group project                            |
   | **Language**        | Python                                            |
-  | **URL**             | Private untill completed    |
+  | **URL**             | [link](https://github.com/gabricarr/FastICA-Information-Theory)    |
 
 
   
