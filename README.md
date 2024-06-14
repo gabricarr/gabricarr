@@ -26,7 +26,7 @@
   | **Description**     | A novel approach for dataset augmentation using Generative AI  |
   | **Project Type**    | Research project                            |
   | **Language**        | Python                                            |
-  | **URL**             | Private untill completed    |
+  | **URL**             | Private    |
 
 
 
@@ -38,5 +38,14 @@
   | **Language**        | Python                                            |
   | **URL**             | [link](https://github.com/gabricarr/FastICA-Information-Theory)    |
 
+
+
+- ### Bayesian Statistical Analysis of CO2 Emissions Data 
+    | **Related Course**  | Bayesian Learning and Montecarlo Simulation                        |
+  | ------------------- | -------------------------------------------------------- |
+  | **Description**     | Analysis of CO2 Data using Bayesian techniques |
+  | **Project Type**    | Group project                            |
+  | **Language**        | R                                            |
+  | **URL**             | Private    |
 
   
