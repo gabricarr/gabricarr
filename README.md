@@ -46,6 +46,6 @@
   | **Description**     | Analysis of CO2 Data using Bayesian techniques |
   | **Project Type**    | Group project                            |
   | **Language**        | R                                            |
-  | **URL**             | Private    |
+  | **URL**             | [link] (https://github.com/gabricarr/Bayesian-Statistical-Analysis-of-CO2-Emissions-Data)|
 
   
