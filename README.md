@@ -36,7 +36,7 @@
   | **Description**     | Implementation and validation of the FastICA algorithm |
   | **Project Type**    | Group project                            |
   | **Language**        | Python                                            |
-  | **URL**             | [link](https://github.com/gabricarr/FastICA-Information-Theory)    |
+  | **URL**             | [link](https://github.com/gabricarr/FastICA-Information-Theory)   |
 
 
 
@@ -46,6 +46,6 @@
   | **Description**     | Analysis of CO2 Data using Bayesian techniques |
   | **Project Type**    | Group project                            |
   | **Language**        | R                                            |
-  | **URL**             | [link] (https://github.com/gabricarr/Bayesian-Statistical-Analysis-of-CO2-Emissions-Data)|
+  | **URL**             | [link](https://github.com/gabricarr/Bayesian-Statistical-Analysis-of-CO2-Emissions-Data)|
 
   
