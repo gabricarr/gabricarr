@@ -1,7 +1,7 @@
 # My projects
 
 
-- ### Music Genre Classification: a Comparative Study
+- ### Music Genre Classification: A Comparative Study
     | **Related Course**  | Numerical Analysis for Machine Learning                         |
   | ------------------- | -------------------------------------------------------- |
   | **Description**     | Comparison of ML and DL techniques |
