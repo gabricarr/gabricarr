@@ -1,14 +1,5 @@
 # My projects
 
-- ### Distributed Board Game in Java
-    | **Related Course**  | Software Engineering                          |
-  | ------------------- | -------------------------------------------------------- |
-  | **Description**     | Implementaion of a Borad Game in Java |
-  | **Project Type**    | Group project                            |
-  | **Language**        | Java                                               |
-  | **URL**             | [link](https://github.com/gabricarm/IS23-AM08)     |
-
-
 
 - ### Music Genre Classification: a Comparative Study
     | **Related Course**  | Numerical Analysis for Machine Learning                         |
@@ -49,4 +40,14 @@
   | **Language**        | R                                            |
   | **URL**             | [link](https://github.com/gabricarr/Bayesian-Statistical-Analysis-of-CO2-Emissions-Data)|
 
-  
+
+
+  - ### Distributed Board Game in Java
+    | **Related Course**  | Software Engineering                          |
+  | ------------------- | -------------------------------------------------------- |
+  | **Description**     | Implementaion of a Borad Game in Java |
+  | **Project Type**    | Group project                            |
+  | **Language**        | Java                                               |
+  | **URL**             | [link](https://github.com/gabricarm/IS23-AM08)     |
+
+
