@@ -19,7 +19,7 @@
   | **URL**             | [link](https://github.com/gabricarr/Naml-project)     |
 
 
-
+<!--
 - ### Dataset augmentation using Diffusion Models
     | **Related Course**  | Software Engineering 2                        |
   | ------------------- | -------------------------------------------------------- |
@@ -27,6 +27,7 @@
   | **Project Type**    | Research project                            |
   | **Language**        | Python                                            |
   | **URL**             | Private    |
+  -->
 
 
 
