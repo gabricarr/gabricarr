@@ -1,6 +1,18 @@
 # My projects
 
 
+- ### Image Classification of Blood Cells
+    | **Related Course**  | Neural Networks and Deep Learning                         |
+  | ------------------- | -------------------------------------------------------- |
+  | **Description**     | Image Classification through Transfer Learning |
+  | **Project Type**    | Group project                            |
+  | **Language**        | Python (Tensorflow)                                           |
+  | **URL**             | [link](https://github.com/gabricarr/ANN-project)     |
+
+
+
+
+
 - ### Music Genre Classification: A Comparative Study
     | **Related Course**  | Numerical Analysis for Machine Learning                         |
   | ------------------- | -------------------------------------------------------- |
