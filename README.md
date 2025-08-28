@@ -1,15 +1,34 @@
 # My projects
 
 
-- ### Image Classification of Blood Cells
+- ### Image Classification and Image Segmentation project using CNNs
     | **Related Course**  | Neural Networks and Deep Learning                         |
   | ------------------- | -------------------------------------------------------- |
-  | **Description**     | Image Classification through Transfer Learning |
+  | **Description**     | Course Project    |
   | **Project Type**    | Group project                            |
   | **Language**        | Python (Tensorflow)                                           |
   | **URL**             | [link](https://github.com/gabricarr/ANN-project)     |
 
 
+
+
+- ### Blind Source Separation with Negentropy-based Independent Component Analysis 
+    | **Related Course**  | Information Theory                        |
+  | ------------------- | -------------------------------------------------------- |
+  | **Description**     | Course project |
+  | **Project Type**    | Group project                            |
+  | **Language**        | Python                                            |
+  | **URL**             | [link](https://github.com/gabricarr/FastICA-Information-Theory)   |
+
+
+
+- ### Bayesian Statistical Analysis of CO2 Emissions Data 
+    | **Related Course**  | Bayesian Learning and Montecarlo Simulation                        |
+  | ------------------- | -------------------------------------------------------- |
+  | **Description**     | Course project |
+  | **Project Type**    | Group project                            |
+  | **Language**        | R                                            |
+  | **URL**             | [link](https://github.com/gabricarr/Bayesian-Statistical-Analysis-of-CO2-Emissions-Data)|
 
 
 
@@ -22,42 +41,24 @@
   | **URL**             | [link](https://github.com/gabricarr/Naml-project)     |
 
 
-<!--
-- ### Dataset augmentation using Diffusion Models
+
+
+- ### Data Augmentation for Autonomous Driving tasks using Generative AI
     | **Related Course**  | Software Engineering 2                        |
   | ------------------- | -------------------------------------------------------- |
-  | **Description**     | A novel approach for dataset augmentation using Generative AI  |
+  | **Description**     | Research project  |
   | **Project Type**    | Research project                            |
   | **Language**        | Python                                            |
-  | **URL**             | Private    |
-  -->
+  | **URL**             | [link](https://github.com/gabricarr/SE2-Project)    |
 
 
-
-- ### Blind Source Separation with Negentropy-based Independent Component Analysis 
-    | **Related Course**  | Information Theory                        |
-  | ------------------- | -------------------------------------------------------- |
-  | **Description**     | Implementation and validation of the FastICA algorithm |
-  | **Project Type**    | Group project                            |
-  | **Language**        | Python                                            |
-  | **URL**             | [link](https://github.com/gabricarr/FastICA-Information-Theory)   |
-
-
-
-- ### Bayesian Statistical Analysis of CO2 Emissions Data 
-    | **Related Course**  | Bayesian Learning and Montecarlo Simulation                        |
-  | ------------------- | -------------------------------------------------------- |
-  | **Description**     | Analysis of CO2 Data using Bayesian techniques |
-  | **Project Type**    | Group project                            |
-  | **Language**        | R                                            |
-  | **URL**             | [link](https://github.com/gabricarr/Bayesian-Statistical-Analysis-of-CO2-Emissions-Data)|
 
 
 
 - ### Distributed Board Game in Java
     | **Related Course**  | Software Engineering                          |
   | ------------------- | -------------------------------------------------------- |
-  | **Description**     | Implementaion of a Borad Game in Java |
+  | **Description**     | Final Project for Undergraduate Degree |
   | **Project Type**    | Group project                            |
   | **Language**        | Java                                               |
   | **URL**             | [link](https://github.com/gabricarm/IS23-AM08)     |
